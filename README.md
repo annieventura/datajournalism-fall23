@@ -19,17 +19,17 @@ hiiiiiiiii this is my repo for Medill DC fall 2023
 
 ## this is a table of the class
 
-==========================
-nicole|ppfa
-meaghan|ppfa
-annie|mil
-kelly|mil
-andrew|ppfa
-kelsey|mil
-haajrah|mil
-emma|mil
-anna|ppfa
-phillip|mil
-esther|ppfa
+-------------------
+| nicole | ppfa |
+| meaghan | ppfa |
+| annie | mil |
+| kelly | mil |
+| andrew | ppfa |
+| kelsey | mil |
+| haajrah | mil |
+| emma | mil |
+| anna | ppfa |
+| phillip | mil |
+| esther | ppfa |
 
 [My Twitter](https://twitter.com/juliann_ventura)
