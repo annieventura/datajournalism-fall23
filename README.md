@@ -19,6 +19,7 @@ hiiiiiiiii this is my repo for Medill DC fall 2023
 
 ## this is a table of the class
 
+| name | concentration |
 | --------- | ---------- |
 | nicole | ppfa |
 | meaghan | ppfa |
