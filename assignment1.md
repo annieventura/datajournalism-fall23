@@ -1,4 +1,4 @@
 # Investigation Critique
 
-## [Student seclusion reports kept secret by Cedar Rapids, Iowa City school districts]
+## [Targeted](https://projects.tampabay.com/projects/2020/investigations/police-pasco-sheriff-targeted/intelligence-led-policing/)
 
