@@ -28,3 +28,6 @@ N/A
 ### Creativity
 
 While there were no data visuals used to supplement the story, there were documents, videos and pictures included that I found to be effective. I would rate the creativity element a 5. For example, the reporters included actual video camera footage of how deputies were contacting families, and even included Pasco's intelligence policing manual. For the manual, it may have been more helpful to highlight certain pages / quotes rather than just include the entire manual.
+
+# Story pitch
+
