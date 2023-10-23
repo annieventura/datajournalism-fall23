@@ -1,5 +1,7 @@
 Original dataset: https://www.census.gov/housing/hvs/data/rates.html, Table 5 Homeowner Vacancy Rates for the 75 Largest Metropolitan Statistical Areas: 2015 to Present
+
 Cleaned dataset 
+
 Any steps you need to take to clean it
   * Steps are indicated in Excel sheet
 What is the interesting qusetion you are answering?
