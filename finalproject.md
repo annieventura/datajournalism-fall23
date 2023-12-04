@@ -3,7 +3,7 @@
 ## Background / findings
 Redistricting in Virginia led to off-year elections for seats in the State House and Senate last month, ultimately ending with Democrats taking complete control of the state legislature. Before this, Republicans [held](https://www.vpap.org/electionresults/20211102/house/) a 52-48 majority in the House while Democrats already controlled the Senate. After flipping the House, Democrats now [hold](https://www.vpap.org/electionresults/20231107/house/) a 51-49 majority, thwarting Republican Gov. Glenn Youngkin’s plan for a Republican trifecta in the state legislature and ruining the Republican agenda.
 
-[Virginia House of Delegates party breakdown](https://datawrapper.dwcdn.net/2qj4a/2/)
+[Virginia House of Delegates party breakdown](https://datawrapper.dwcdn.net/2qj4a/2/) data viz
 
 Virginia’s off-year election was significant because it may be [predictive](https://www.politico.com/news/2023/10/07/virginia-legislative-elections-2024-00120467) of the 2024 presidential election, especially with the unofficial issues on the ballot– abortion, education and the economy. Both Democratic and Republican candidates running for seats in the House campaigned on either restricting or loosening access to abortions, which is a national issue.
 
@@ -13,11 +13,11 @@ Seven of the 100 House districts were listed as [competitive](https://www.vpap.o
 
 During the [2021 House elections](https://www.vpap.org/electionresults/20211102/house/), the Republican candidate won in the following aforementioned competitive districts: 22, 82, 97 and 65. Democratic candidates won in districts 89, 57, and 21.
 
-[Virginia House of Delegates Election Winners](https://www.datawrapper.de/_/Y5SyL/)
+[Virginia House of Delegates Election Winners](https://www.datawrapper.de/_/Y5SyL/) data viz
 
 [After the 2023 House elections, 2021](https://www.vpap.org/electionresults/20231107/house/), the Republican candidate won in the following competitive districts: 22, 89, 57 and 82. Democratic candidates won in districts 21, 97 and 65. Democrats flipped districts 97 and 65, Virginia Beach and Fredericksburg, from the 2021 results.
 
-[Virginia House of Delegates Election Winners, 2023](https://www.datawrapper.de/_/Po6l7/)
+[Virginia House of Delegates Election Winners, 2023](https://www.datawrapper.de/_/Po6l7/) data viz
 
 District 65 and District 97 may have been the only competitive House districts that Democrats flipped, but there were many others that Democrats were able to flip this past November: 1, 3-9, 12, 14-20, 23-29, 54, 55, 58, 65, 78, 81, 84, 85, 88, 91, 96 and 97.
 
