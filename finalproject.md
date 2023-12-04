@@ -65,7 +65,7 @@ Talk about congressional map prior to redistricting – data viz of 2021 results
  
   New competitive districts 
     
-    Voter quote about feelings on new district lines
+Voter quote about feelings on new district lines
 
 Districts that flipped (especially competitive districts) Democratic this past November – data viz of 2023 results
  
