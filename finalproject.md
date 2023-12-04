@@ -13,7 +13,7 @@ Seven of the 100 House districts were listed as [competitive](https://www.vpap.o
 
 During the [2021 House elections](https://www.vpap.org/electionresults/20211102/house/), the Republican candidate won in the following aforementioned competitive districts: 22, 82, 97 and 65. Democratic candidates won in districts 89, 57, and 21.
 
-[Virginia House of Delegates Election Winners](https://www.datawrapper.de/_/Y5SyL/) data viz
+[Virginia House of Delegates Election Winners, 2021](https://www.datawrapper.de/_/Y5SyL/) data viz
 
 [After the 2023 House elections, 2021](https://www.vpap.org/electionresults/20231107/house/), the Republican candidate won in the following competitive districts: 22, 89, 57 and 82. Democratic candidates won in districts 21, 97 and 65. Democrats flipped districts 97 and 65, Virginia Beach and Fredericksburg, from the 2021 results.
 
