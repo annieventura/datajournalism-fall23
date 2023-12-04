@@ -54,20 +54,35 @@ We would ask what the process of redistricting looked like, where they started a
 We would ask voters what issues mattered most to them, especially in the swing districts, and what forms of campaigning were the most effective. We would also ask how they felt about the new district lines, especially in the more competitive districts, and if they felt the new boundaries accurately represent the district’s population. We would also talk to them about what issue(s) from this election they think they’ll be considering as the 2024 election approaches.
 ## Potential story structure
 Lede with Democrats taking control of Virginia state legislature, flipping the House
+
 PROPOSED NUT GRAF: Democrats flipped the House of Delegates and won numerous seats that were previously Republican-controlled, including District 97 and District 65, two districts that became competitive after redistricting. Several issues claimed an unofficial spot on the ballot, including abortion access, which is a national issue that may be predictive of what voters will see in the upcoming 2024 presidential elections and how candidates, especially Democrats, plan to campaign on the issue.
+ 
   Expert quote about significance of issues for 2024 election – especially the significance for Democrats 
+  
   Party breakdown data viz
+
 Talk about congressional map prior to redistricting – data viz of 2021 results
+ 
   New competitive districts 
+    
     Voter quote about feelings on new district lines
+
 Districts that flipped (especially competitive districts) Democratic this past November – data viz of 2023 results
+ 
   Issues that drove voters this past November
+
 Significance of virginia election for 2024 election
+  
   Hyperlink other reports about this
+  
   Expert quote about significance 
+
 Talk about issues that drove voters this election that may also be considered for 2024 election
+  
   Voter quote on issues that mattered 
+
 Expert quote on issues that may hold significance for voters in 2024 election
+
 ## Data analysis process
 Redistricting in Virginia created new swing districts, but since this past November election was the first election using the new district lines, we knew that there wouldn’t be a ton of detailed reports and visualizations comparing the last House of Delegates election in 2021 to the one this year. 
 
